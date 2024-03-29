@@ -13,12 +13,6 @@ Projeto desenvolvido foi proposto pela [DevSuperior](https://devsuperior.com.br/
 
 Deploy do projeto realizado no vercel, veja [aqui](https://github-api-red-six.vercel.app/home).
 
-## Veja o projeto
-
-Experimente live demo:
-
-![FrontEnd](https://i.imgur.com/CI3R2Dn.gif)
-
 ## Como criar e executar o Desafio GitHub Api localmente
 
 Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fácil. Certifique-se de ter o Git instalados e siga as instruções abaixo. Precisa de informações adicionais? entre em contato com os autores.
